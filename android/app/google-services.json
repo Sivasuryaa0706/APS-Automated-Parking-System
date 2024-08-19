@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919261443339",
+    "project_id": "aps-phone",
+    "storage_bucket": "aps-phone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919261443339:android:8f19e3036b60da1fbdde0e",
+        "android_client_info": {
+          "package_name": "com.example.aps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC54U4mkb2ueDHldgulWyt_0vCVumA53Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
